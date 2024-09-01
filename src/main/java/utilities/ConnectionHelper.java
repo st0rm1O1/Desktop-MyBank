@@ -20,8 +20,7 @@ public class ConnectionHelper {
 	private static String USER;
 	private static String PASS;
 	
-	
-	@SneakyThrows
+
     public static Connection createConnection() {
 		
 		try { 
@@ -35,9 +34,9 @@ public class ConnectionHelper {
 				
 				Class.forName("com.mysql.cj.jdbc.Driver");				
 				link = DriverManager.getConnection("jdbc:mysql://" + URL,
-						USER, PASS);	
-				
-				
+						USER, PASS);
+
+
 				new DAO().checkDatabaseExistance();
 				
 				
@@ -65,7 +64,7 @@ public class ConnectionHelper {
 					JOptionPane.ERROR_MESSAGE
 			);
 
-			throw e;
+			e.printStackTrace();
 		}
 		
 		return link;

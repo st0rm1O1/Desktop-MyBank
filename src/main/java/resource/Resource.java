@@ -72,7 +72,7 @@ public class Resource {
 
 	@SneakyThrows
 	private static Font getInter(String path, int size) {
-		return Font.createFont(Font.TRUETYPE_FONT, new File(getResourceAsURI(path))).deriveFont(Font.PLAIN, size);
+		return Font.createFont(Font.TRUETYPE_FONT, getResourceAsStream(path)).deriveFont(Font.PLAIN, size);
 	}
 
 	@SneakyThrows

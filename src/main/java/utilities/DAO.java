@@ -15,6 +15,7 @@ import models.UserModel;
 public class DAO {
 	
 	private final Connection link = ConnectionHelper.createConnection();
+
 	private PreparedStatement ps;
 	private ResultSet rs;
 	private UserModel userModel;
