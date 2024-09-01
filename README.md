@@ -1,20 +1,20 @@
 
 # myBank - GUI (Swing, MySQL)
 
-![](ScreenShot/preview-1.jpeg)
+![](images/preview-1.jpeg)
 
-![](ScreenShot/preview-2.jpeg)
+![](images/preview-2.jpeg)
 
-![](ScreenShot/preview-3.jpeg)
+![](images/preview-3.jpeg)
 
-![](ScreenShot/preview-4.jpeg)
+![](images/preview-4.jpeg)
 
-![](ScreenShot/preview-5.jpeg)
+![](images/preview-5.jpeg)
 
-![](ScreenShot/preview-6.jpeg)
+![](images/preview-6.jpeg)
 
-![](ScreenShot/preview-7.jpeg)
+![](images/preview-7.jpeg)
 
-![](ScreenShot/preview-8.jpeg)
+![](images/preview-8.jpeg)
 
-![](ScreenShot/preview-9.jpeg)
+![](images/preview-9.jpeg)
