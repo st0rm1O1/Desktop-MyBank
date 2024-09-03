@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="Desktop-MyBank:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Desktop_MyBank_jar</output-path>
-    <root id="archive" name="Desktop-MyBank.jar">
+    <root id="root">
       <element id="module-output" name="Desktop-MyBank" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar" path-in-jar="/" />
