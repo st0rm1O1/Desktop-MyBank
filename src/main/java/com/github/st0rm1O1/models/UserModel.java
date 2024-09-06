@@ -1,4 +1,4 @@
-package models;
+package com.github.st0rm1O1.models;
 
 public class UserModel {
 	

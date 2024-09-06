@@ -1,4 +1,4 @@
-package frame;
+package com.github.st0rm1O1.frame;
 
 import java.awt.Color;
 import java.awt.Point;
@@ -8,9 +8,9 @@ import java.awt.event.MouseEvent;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
-import resource.Resource;
-import panels.TitleBar;
-import utilities.LayerPanel;
+import com.github.st0rm1O1.resource.Resource;
+import com.github.st0rm1O1.panels.TitleBar;
+import com.github.st0rm1O1.utilities.LayerPanel;
 
 
 public class ApplicationFrame extends JFrame {

@@ -1,4 +1,4 @@
-package utilities;
+package com.github.st0rm1O1.utilities;
 
 import java.awt.Font;
 import java.awt.Insets;

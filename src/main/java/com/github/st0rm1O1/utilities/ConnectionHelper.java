@@ -1,6 +1,6 @@
-package utilities;
+package com.github.st0rm1O1.utilities;
 
-import frame.ApplicationFrame;
+import com.github.st0rm1O1.frame.ApplicationFrame;
 import lombok.SneakyThrows;
 
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package utilities;
+package com.github.st0rm1O1.utilities;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 
 import javax.swing.table.DefaultTableModel;
 
-import models.UserModel;
+import com.github.st0rm1O1.models.UserModel;
 
 
 

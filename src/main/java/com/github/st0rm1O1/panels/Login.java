@@ -1,4 +1,4 @@
-package panels;
+package com.github.st0rm1O1.panels;
 
 import java.awt.Color;
 import java.awt.Insets;
@@ -22,10 +22,10 @@ import javax.swing.UIManager;
 import javax.swing.border.CompoundBorder;
 import javax.swing.border.EmptyBorder;
 
-import resource.Resource;
-import models.UserModel;
-import utilities.DAO;
-import utilities.LayerPanel;
+import com.github.st0rm1O1.resource.Resource;
+import com.github.st0rm1O1.models.UserModel;
+import com.github.st0rm1O1.utilities.DAO;
+import com.github.st0rm1O1.utilities.LayerPanel;
 
 
 

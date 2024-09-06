@@ -1,4 +1,4 @@
-package utilities;
+package com.github.st0rm1O1.utilities;
 
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -10,7 +10,7 @@ import javax.swing.JComponent;
 import javax.swing.plaf.basic.BasicPanelUI;
 
 import lombok.AllArgsConstructor;
-import resource.Resource;
+import com.github.st0rm1O1.resource.Resource;
 
 
 @AllArgsConstructor

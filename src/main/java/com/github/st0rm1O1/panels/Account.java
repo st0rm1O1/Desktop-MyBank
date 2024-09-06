@@ -1,13 +1,13 @@
-package panels;
+package com.github.st0rm1O1.panels;
 
 import java.awt.Color;
 import java.awt.Cursor;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
-import resource.Resource;
-import models.UserModel;
-import utilities.LayerPanel;
+import com.github.st0rm1O1.resource.Resource;
+import com.github.st0rm1O1.models.UserModel;
+import com.github.st0rm1O1.utilities.LayerPanel;
 import javax.swing.JLabel;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;

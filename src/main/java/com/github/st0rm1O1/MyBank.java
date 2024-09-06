@@ -1,7 +1,9 @@
+package com.github.st0rm1O1;
+
 import javax.swing.JOptionPane;
 
-import frame.ApplicationFrame;
-import utilities.DialogX;
+import com.github.st0rm1O1.frame.ApplicationFrame;
+import com.github.st0rm1O1.utilities.DialogX;
 
 public class MyBank {
 

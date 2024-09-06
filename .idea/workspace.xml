@@ -11,8 +11,23 @@
   <component name="ChangeListManager">
     <list default="true" id="97248da0-c354-48b6-a262-080fccd76e49" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preview/thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/MyBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frame/ApplicationFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/frame/ApplicationFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/models/UserModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Dashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Splash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Splash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/panels/TitleBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/TitleBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Transactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Transactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resource/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/resource/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ConnectionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/ConnectionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/DialogX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/DialogX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ImageRender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/ImageRender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/LayerPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/LayerPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/RoundedBorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/RoundedBorder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.local.executor": "Run",
-    "JAR Application.Desktop-MyBank.jar.executor": "Run",
-    "Maven.Desktop-MyBank [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/theku/Workspace/Desktop-MyBank/preview",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15527344",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.local.executor&quot;: &quot;Run&quot;,
+    &quot;JAR Application.Desktop-MyBank.jar.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Desktop-MyBank [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/theku/Workspace/Desktop-MyBank/preview&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15527344&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\theku\Workspace\Desktop-MyBank\preview" />
@@ -59,14 +74,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="JAR Application.Desktop-MyBank.jar">
-    <configuration name="local" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="MyBank" />
-      <module name="Desktop-MyBank" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.local">
     <configuration name="Desktop-MyBank.jar" type="JarApplication" temporary="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Desktop_MyBank_jar/Desktop-MyBank.jar" />
       <method v="2" />

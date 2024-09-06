@@ -1,9 +1,9 @@
-package panels;
+package com.github.st0rm1O1.panels;
 
-import resource.Resource;
-import utilities.DAO;
-import utilities.DialogX;
-import utilities.LayerPanel;
+import com.github.st0rm1O1.resource.Resource;
+import com.github.st0rm1O1.utilities.DAO;
+import com.github.st0rm1O1.utilities.DialogX;
+import com.github.st0rm1O1.utilities.LayerPanel;
 
 import java.util.regex.Pattern;
 

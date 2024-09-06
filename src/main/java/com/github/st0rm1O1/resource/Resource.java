@@ -1,7 +1,7 @@
-package resource;
+package com.github.st0rm1O1.resource;
 
 import lombok.SneakyThrows;
-import utilities.ImageRender;
+import com.github.st0rm1O1.utilities.ImageRender;
 
 import javax.imageio.ImageIO;
 import javax.swing.plaf.PanelUI;

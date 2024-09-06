@@ -1,4 +1,4 @@
-package panels;
+package com.github.st0rm1O1.panels;
 
 import java.awt.Font;
 import java.awt.Color;
@@ -14,8 +14,8 @@ import javax.swing.UIManager;
 import javax.swing.border.CompoundBorder;
 import javax.swing.border.EmptyBorder;
 
-import resource.Resource;
-import utilities.RoundedBorder;
+import com.github.st0rm1O1.resource.Resource;
+import com.github.st0rm1O1.utilities.RoundedBorder;
 
 public class TitleBar extends JPanel {
 

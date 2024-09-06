@@ -1,16 +1,16 @@
-package utilities;
+package com.github.st0rm1O1.utilities;
 
 import javax.swing.JLayeredPane;
 import javax.swing.JPanel;
 
-import models.UserModel;
-import panels.Account;
-import panels.Dashboard;
-import panels.Login;
-import panels.Register;
-import panels.Splash;
-import panels.TitleBar;
-import panels.Transactions;
+import com.github.st0rm1O1.models.UserModel;
+import com.github.st0rm1O1.panels.Account;
+import com.github.st0rm1O1.panels.Dashboard;
+import com.github.st0rm1O1.panels.Login;
+import com.github.st0rm1O1.panels.Register;
+import com.github.st0rm1O1.panels.Splash;
+import com.github.st0rm1O1.panels.TitleBar;
+import com.github.st0rm1O1.panels.Transactions;
 
 
 
