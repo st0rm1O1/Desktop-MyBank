@@ -21,8 +21,9 @@ Here’s a glimpse of what the application looks like:
 ### Demo Walkthrough
 
 Check out the full application in action:
+*https://youtu.be/agP1lba8UZU*
 
-[![Watch the video](preview/thumbnail.png)](preview/demo.mp4)
+[![Watch the video](preview/thumbnail.png)](https://youtu.be/agP1lba8UZU)
 
 *Note: Modals/Popups are not visible in the above demo.*
 

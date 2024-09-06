@@ -10,24 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97248da0-c354-48b6-a262-080fccd76e49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/preview/thumbnail.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/MyBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frame/ApplicationFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/frame/ApplicationFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/models/UserModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Dashboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Register.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Splash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Splash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/panels/TitleBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/TitleBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/panels/Transactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/panels/Transactions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/resource/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/resource/Resource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ConnectionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/ConnectionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/DAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/DialogX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/DialogX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ImageRender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/ImageRender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/LayerPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/LayerPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/RoundedBorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/st0rm1O1/utilities/RoundedBorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
