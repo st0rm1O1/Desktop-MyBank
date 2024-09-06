@@ -61,6 +61,6 @@ We welcome contributions! If you have improvements or fixes, feel free to fork t
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the GPL-3.0 License.
 
 ---
